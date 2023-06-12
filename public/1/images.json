@@ -1,0 +1,129 @@
+[
+    {
+        "imageURL": "\\1\\1.2.840.113663.1500.1.475088013.3.7.20220315.81629.68\\image.png",
+        "animatedURL": null,
+        "isColor": true,
+        "numberOfFrames": null,
+        "recommendedDisplayFrameRate": "1",
+        "regions": [
+            {
+                "pixelRatioX": 0.02398619549258359,
+                "dataType": "Tissue",
+                "unitX": "cm",
+                "unitY": "cm",
+                "pixelRatioY": 0.02398619549258359,
+                "spatialFormat": "2D (tissue or flow)",
+                "scrollingRegion": "Unspecified",
+                "boundingBox": {
+                    "x": 14,
+                    "y": 38,
+                    "width": 996,
+                    "height": 720
+                },
+                "scalingProtection": "Protected",
+                "dopplerScaleType": "Velocity",
+                "priority": 0,
+                "reference": null
+            }
+        ],
+        "index": 9569,
+        "date": "20220315",
+        "time": "081629",
+        "stageName": "-",
+        "viewName": "-",
+        "elapsedTime": 0,
+        "heartRate": 0
+    },
+    {
+        "imageURL": "\\1\\1.2.840.113663.1500.1.475088013.3.37.20220315.82320.718\\image.png",
+        "animatedURL": null,
+        "isColor": true,
+        "numberOfFrames": null,
+        "recommendedDisplayFrameRate": "1",
+        "regions": [
+            {
+                "pixelRatioX": 0.027240056041102014,
+                "dataType": "Tissue",
+                "unitX": "cm",
+                "unitY": "cm",
+                "pixelRatioY": 0.027240056041102014,
+                "spatialFormat": "2D (tissue or flow)",
+                "scrollingRegion": "Unspecified",
+                "boundingBox": {
+                    "x": 14,
+                    "y": 38,
+                    "width": 996,
+                    "height": 720
+                },
+                "scalingProtection": "Protected",
+                "dopplerScaleType": "Velocity",
+                "priority": 0,
+                "reference": null
+            }
+        ],
+        "index": 9953,
+        "date": "20220315",
+        "time": "082320",
+        "stageName": "-",
+        "viewName": "-",
+        "elapsedTime": 0,
+        "heartRate": 0
+    },
+    {
+        "imageURL": "\\1\\1.2.840.113663.1500.1.475056076.3.54.20220211.90347.315\\image.png",
+        "animatedURL": null,
+        "isColor": true,
+        "numberOfFrames": null,
+        "recommendedDisplayFrameRate": "1",
+        "regions": [
+            {
+                "boundingBox": {
+                    "x": 42,
+                    "y": 342,
+                    "width": 901,
+                    "height": 390
+                },
+                "spatialFormat": "Spectral",
+                "dataType": "PW Spectral Doppler",
+                "priority": 0,
+                "scalingProtection": "Protected",
+                "dopplerScaleType": "Velocity",
+                "scrollingRegion": "Unspecified",
+                "reference": {
+                    "x": 901,
+                    "y": 73
+                },
+                "unitX": "seconds",
+                "unitY": "cm/sec",
+                "pixelRatioX": 0.0035210643015521057,
+                "pixelRatioY": -0.42846331908831914,
+                "DopplerCorrectionAngle": 0.0
+            },
+            {
+                "boundingBox": {
+                    "x": 309,
+                    "y": 37,
+                    "width": 406,
+                    "height": 305
+                },
+                "spatialFormat": "2D (tissue or flow)",
+                "dataType": "Tissue",
+                "priority": 0,
+                "scalingProtection": "Protected",
+                "dopplerScaleType": "Velocity",
+                "scrollingRegion": "Unspecified",
+                "unitX": "cm",
+                "unitY": "cm",
+                "pixelRatioX": 0.06290106382920044,
+                "pixelRatioY": 0.06290106382920044
+            }
+        ],
+        "index": 9953,
+        "date": "20220315",
+        "time": "082320",
+        "stageName": "-",
+        "viewName": "-",
+        "elapsedTime": 0,
+        "heartRate": 0
+    }
+]

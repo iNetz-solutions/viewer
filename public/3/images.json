@@ -1,0 +1,177 @@
+[
+	{
+		"imageURL": "\\3\\1.2.840.113663.1500.1.475056076.3.5.20220202.105547.642\\image.png",
+		"animatedURL": null,
+		"isColor": true,
+		"numberOfFrames": null,
+		"recommendedDisplayFrameRate": "1",
+		"regions": [
+			{
+				"boundingBox": {
+					"x": 14,
+					"y": 38,
+					"width": 996,
+					"height": 720
+				},
+				"spatialFormat": "2D (tissue or flow)",
+				"dataType": "Tissue",
+				"priority": 0,
+				"scalingProtection": "Protected",
+				"dopplerScaleType": "Velocity",
+				"scrollingRegion": "Unspecified",
+				"unitX": "cm",
+				"unitY": "cm",
+				"pixelRatioX": 0.028774840784374164,
+				"pixelRatioY": 0.028774840784374164
+			}
+		],
+		"index": 9569,
+		"date": "20220315",
+		"time": "081629",
+		"stageName": "-",
+		"viewName": "-",
+		"elapsedTime": 0,
+		"heartRate": 0
+	},
+	{
+		"imageURL": "\\3\\1.2.840.113663.1500.1.475056076.3.7.20220202.105615.963\\image.png",
+		"animatedURL": null,
+		"isColor": true,
+		"numberOfFrames": null,
+		"recommendedDisplayFrameRate": "1",
+		"regions": [
+			{
+				"boundingBox": {
+					"x": 14,
+					"y": 38,
+					"width": 996,
+					"height": 720
+				},
+				"spatialFormat": "2D (tissue or flow)",
+				"dataType": "Tissue",
+				"priority": 0,
+				"scalingProtection": "Protected",
+				"dopplerScaleType": "Velocity",
+				"scrollingRegion": "Unspecified",
+				"unitX": "cm",
+				"unitY": "cm",
+				"pixelRatioX": 0.01478360050583664,
+				"pixelRatioY": 0.01478360050583664
+			}
+		],
+		"index": 9953,
+		"date": "20220315",
+		"time": "082320",
+		"stageName": "-",
+		"viewName": "-",
+		"elapsedTime": 0,
+		"heartRate": 0
+	},
+	{
+		"imageURL": "\\3\\1.2.840.113663.1500.1.475056076.3.8.20220202.105621.462\\image.png",
+		"animatedURL": null,
+		"isColor": true,
+		"numberOfFrames": null,
+		"recommendedDisplayFrameRate": "1",
+		"regions": [
+			{
+				"boundingBox": {
+					"x": 14,
+					"y": 38,
+					"width": 996,
+					"height": 720
+				},
+				"spatialFormat": "2D (tissue or flow)",
+				"dataType": "Tissue",
+				"priority": 0,
+				"scalingProtection": "Protected",
+				"dopplerScaleType": "Velocity",
+				"scrollingRegion": "Unspecified",
+				"unitX": "cm",
+				"unitY": "cm",
+				"pixelRatioX": 0.01478360050583664,
+				"pixelRatioY": 0.01478360050583664
+			}
+		],
+		"index": 9953,
+		"date": "20220315",
+		"time": "082320",
+		"stageName": "-",
+		"viewName": "-",
+		"elapsedTime": 0,
+		"heartRate": 0
+	},
+	{
+		"imageURL": "\\3\\1.2.840.113663.1500.1.475056076.3.13.20220202.105728.837\\image.png",
+		"animatedURL": null,
+		"isColor": true,
+		"numberOfFrames": null,
+		"recommendedDisplayFrameRate": "1",
+		"regions": [
+			{
+				"boundingBox": {
+					"x": 14,
+					"y": 38,
+					"width": 996,
+					"height": 720
+				},
+				"spatialFormat": "2D (tissue or flow)",
+				"dataType": "Tissue",
+				"priority": 0,
+				"scalingProtection": "Protected",
+				"dopplerScaleType": "Velocity",
+				"scrollingRegion": "Unspecified",
+				"unitX": "cm",
+				"unitY": "cm",
+				"pixelRatioX": 0.01501728688994752,
+				"pixelRatioY": 0.01501728688994752
+			}
+		],
+		"index": 9953,
+		"date": "20220315",
+		"time": "082320",
+		"stageName": "-",
+		"viewName": "-",
+		"elapsedTime": 0,
+		"heartRate": 0
+	},
+	{
+		"imageURL": "\\3\\1.2.840.113663.1500.1.475056076.3.27.20220202.105956.779\\image.png",
+		"animatedURL": null,
+		"isColor": true,
+		"numberOfFrames": null,
+		"recommendedDisplayFrameRate": "1",
+		"regions": [
+			{
+				"boundingBox": {
+					"x": 42,
+					"y": 342,
+					"width": 901,
+					"height": 390
+				},
+				"spatialFormat": "Spectral",
+				"dataType": "CW Spectral Doppler",
+				"priority": 0,
+				"scalingProtection": "Protected",
+				"dopplerScaleType": "Velocity",
+				"scrollingRegion": "Unspecified",
+				"reference": {
+					"x": 901,
+					"y": 49
+				},
+				"unitX": "seconds",
+				"unitY": "cm/sec",
+				"pixelRatioX": 0.0035210643015521059,
+				"pixelRatioY": -0.9696947899918197,
+				"DopplerCorrectionAngle": 0.0
+			}
+		],
+		"index": 9953,
+		"date": "20220315",
+		"time": "082320",
+		"stageName": "-",
+		"viewName": "-",
+		"elapsedTime": 0,
+		"heartRate": 0
+	}
+]

@@ -1,0 +1,85 @@
+{
+    "Patient": {
+        "PatientName": "KEYES^THOMAS^^^",
+        "PatientID": "5149803115",
+        "PatientDOB": "19531110",
+        "PatientGender": "M",
+        "PatientWeight": "68.04",
+        "PatientHeight": "1.6764"
+    },
+    "Device": {
+        "DeviceName": "Affiniti CVx",
+        "DeviceModel": "Affiniti CVx_9.0.0.413",
+        "DeviceSerialNumber": "475056076",
+        "VendorName": "Philips Medical Systems"
+    },
+    "Test": {
+        "TestModality": "US",
+        "TestDescription": "",
+        "TestDate": "20220202",
+        "TestTime": "105343",
+        "referringPhysician": "DR. MERKER, D.^^^^",
+        "StudyInstanceUID": "1.2.840.113663.1500.1.475056076.1.1.20220202.105344.4",
+        "SeriesInstanceUID": "1.2.840.113663.1500.1.475056076.2.1.20220202.105344.6",
+        "SOPInstanceUID": "1.2.840.113663.1500.1.475056076.3.27.20220202.105956.779"
+    },
+    "Image": {
+        "samplesPerPixel": "3",
+        "rows": "768",
+        "columns": "1024",
+        "bitsAllocated": "8",
+        "imageType": "['ORIGINAL', 'PRIMARY', 'CARDIOLOGY']",
+        "photometricInterpretation": "RGB",
+        "pixelRepresentation": "0",
+        "stageName": "-",
+        "viewName": "-",
+        "index": 907,
+        "comment": "-",
+        "Date": "20220202",
+        "Time": "105956",
+        "regions": [
+            {
+                "boundingBox": {
+                    "x": 309,
+                    "y": 37,
+                    "width": 406,
+                    "height": 305
+                },
+                "spatialFormat": "2D (tissue or flow)",
+                "dataType": "Tissue",
+                "priority": 0,
+                "scalingProtection": "Protected",
+                "dopplerScaleType": "Velocity",
+                "scrollingRegion": "Unspecified",
+                "unitX": "cm",
+                "unitY": "cm",
+                "pixelRatioX": 0.07059049611142035,
+                "pixelRatioY": 0.07059049611142035
+            },
+            {
+                "boundingBox": {
+                    "x": 42,
+                    "y": 342,
+                    "width": 901,
+                    "height": 390
+                },
+                "spatialFormat": "Spectral",
+                "dataType": "CW Spectral Doppler",
+                "priority": 0,
+                "scalingProtection": "Protected",
+                "dopplerScaleType": "Velocity",
+                "scrollingRegion": "Unspecified",
+                "reference": {
+                    "x": 901,
+                    "y": 49
+                },
+                "unitX": "seconds",
+                "unitY": "cm/sec",
+                "pixelRatioX": 0.0035210643015521057,
+                "pixelRatioY": -0.9696947899918197,
+                "DopplerCorrectionAngle": 0.0
+            }
+        ],
+        "isColor": true
+    }
+}

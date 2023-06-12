@@ -1,0 +1,26 @@
+{
+  "001": {
+    "name": "Caliper",
+    "unit": "cm",
+    "icon": "ruler",
+    "toolName": "Line",
+    "formulaName": "line",
+	"imageTypes": ["2D (tissue or flow)","M-Mode" ]
+  },   
+   "002": {
+    "name": "Vmax",
+    "unit": "cm/s",
+    "icon": "circle",
+    "toolName": "Point",
+    "formulaName": "point",
+	"imageTypes": ["Spectral"]
+  },
+  "003": {
+    "name": "Trace",
+    "unit": "cm^2",
+    "icon": "draw-polygon",
+    "toolName": "TraceLine",
+    "formulaName": "traceArea",
+	"imageTypes": [ "2D (tissue or flow)","M-Mode,Spectral" ]
+  }  
+}
